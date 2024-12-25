@@ -71,7 +71,7 @@ export default function App() {
                                 }`}
                         >
                             {formNumber}
-                        </button>   
+                        </button>
                     ))}
                 </div>
             </div>
